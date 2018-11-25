@@ -1,1 +1,1 @@
-this is a DB connect file. thi contains db configuration details
+this is a DB connect fkjlsggkj;slajile. thi contains db configuration details
