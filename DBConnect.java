@@ -1,1 +1,1 @@
-this is a DB connect file. thi contains db configuration details
+it is a db connect file
